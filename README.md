@@ -45,21 +45,27 @@ Employee attrition is a critical challenge for organizations. This project helps
 ## 📊 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-
-![Overview](assets/images/dashboard_overview.png)
+<p align="center">
+  <img src="assets/images/dashboard_department.png" width="800">
+</p>
 
 ### 🔹 Department Analysis
 
-![Department](assets/images/dashboard_department.png)
+<p align="center">
+  <img src="assets/images/Department_Analysis.png" width="800">
+</p>
 
 ### 🔹 Risk Table
 
-![Risk Table](assets/images/dashboard_risk_table.png)
+<p align="center">
+  <img src="assets/images/dashboard_risk_table.png" width="800">
+</p>
 
 ### 🔹 Insights
 
-![Insights](assets/images/dashboard_insights.png)
-
+<p align="center">
+  <img src="assets/images/dashboard_insights.png" width="800">
+</p>
 ---
 
 ## 🤖 Machine Learning Workflow
@@ -75,7 +81,9 @@ This project follows a structured ML pipeline:
 
 ### 📈 Workflow Diagram
 
-![ML Workflow](assets/images/workflow.png)
+<p align="center">
+  <img src="assets/images/workflow.png" width="700">
+</p>
 
 ---
 
@@ -90,8 +98,9 @@ To improve model performance, new features are created:
 
 ### 📊 Feature Engineering Visualization
 
-![Feature Engineering](assets/images/feature_engineering.png)
-
+<p align="center">
+  <img src="assets/images/feature_engineering.png" width="700">
+</p>
 ---
 
 ## 🏗️ Project Structure
@@ -129,7 +138,7 @@ employee-attrition-ml/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/employee-attrition-ml.git
+git clone https://github.com/AlokRana01/employee-attrition-ml.git
 cd employee-attrition-ml
 ```
 
@@ -214,7 +223,6 @@ streamlit run app.py
 ## 🙌 Author
 
 **Alok Rana**
-Aspiring Data Scientist & ML Developer
 
 ---
 
